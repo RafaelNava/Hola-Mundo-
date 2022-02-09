@@ -1,5 +1,5 @@
-# Hola-Mundo-
-mi primer repositorio prueba
+# HOLA-MUNDO.
+mi primer repositorio.
 
 Autor: Rafael Nava Centeno 
 Fecha: 08/02/22
